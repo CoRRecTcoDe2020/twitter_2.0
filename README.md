@@ -3,8 +3,8 @@
 Twitter clone that requires you to log in with an existing Twitter account to be able to create tweets + upload images (Url) and also comment on other tweets.
 <br>
 <br>
-![alt text](![Screenshot 2022-05-21 121625](https://user-images.githubusercontent.com/77756002/169641619-1c15f5a9-a333-4d59-b378-ab12b7913795.png))
-![alt text](![Screenshot 2022-05-21 121750](https://user-images.githubusercontent.com/77756002/169641679-d4b820c0-8f3c-42d0-a03b-94cd98a23ca4.png))
+(![Screenshot 2022-05-21 121625](https://user-images.githubusercontent.com/77756002/169641619-1c15f5a9-a333-4d59-b378-ab12b7913795.png))
+(![Screenshot 2022-05-21 121750](https://user-images.githubusercontent.com/77756002/169641679-d4b820c0-8f3c-42d0-a03b-94cd98a23ca4.png))
 
 ## Built With
 
